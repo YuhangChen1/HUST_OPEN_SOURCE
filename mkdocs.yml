@@ -105,4 +105,8 @@ nav:
       - "前言": "计算机学院/index.md"
       - "C语言 (C Language)": "计算机学院/c.md"
       - "程序设计": "计算机学院/c_design.md" 
-  
+
+  - 生命科学与技术学院:
+      - "前言": "生命科学与技术学院/index.md"
+      - "微生物学 (Microbiology)": "生命科学与技术学院/microbiology.md"
+     
