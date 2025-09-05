@@ -12,6 +12,11 @@
 最恶心的是latex它是分十几个文件发给你的...作业居然是写latex...
 最后的作业是设计网页
 
+## 推荐课程
+
+- 如果想短时间内掌握网页构建,推荐[黑马程序员HTML5+CSS3+移动web](https://www.bilibili.com/video/BV1kM4y127Li?spm_id_from=333.788.videopod.episodes&vd_source=11648ea8b9149e78b210f1a1582d46d7)。如果想更进一步为网页添加交互性和动态功能,推荐[黑马程序员JavaScript](https://www.bilibili.com/video/BV1Y84y1L7Nn?spm_id_from=333.788.videopod.episodes&vd_source=11648ea8b9149e78b210f1a1582d46d7),学完基础和APIs就可以做出比较丰富的交互效果了。时间更充裕的可以看Jonas的[HTML5+CSS3](https://www.bilibili.com/video/BV1A34y1e7wL/?spm_id_from=333.337.search-card.all.click&vd_source=11648ea8b9149e78b210f1a1582d46d7)和[JavaScript](https://www.bilibili.com/video/BV1vA4y197C7/?spm_id_from=333.337.search-card.all.click&vd_source=11648ea8b9149e78b210f1a1582d46d7),细节上更深入,还包含了网页设计的教学内容
+
+
 ## 课程资源推荐
 
 **感谢计算机学院[Nuyoahwjl](https://github.com/Nuyoahwjl) 他的网页真的很好看！！**

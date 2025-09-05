@@ -11,6 +11,9 @@
 - [浙大微积分：苏德矿](https://www.bilibili.com/video/BV1GB4y1v7sL/?spm_id_from=333.337.search-card.all.click)
 (本人觉得其他考研名师要么难度太高要么难度太低，只推荐苏德矿)
 
+## 速成攻略
+- [猴博士](https://www.bilibili.com/video/BV1JK4y1e7Ue?spm_id_from=333.788.videopod.episodes&vd_source=11648ea8b9149e78b210f1a1582d46d7)讲得很有条理,可以用来熟悉一下题型,但是只看这个肯定不够,还需要刷题
+
 ## 课程课本
 
 - 教材：[微积分学·上册](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8B/%E8%AF%BE%E6%9C%AC/%E3%80%8A%E5%BE%AE%E7%A7%AF%E5%88%86%E5%AD%A6%C2%B7%E4%B8%8B%E5%86%8C%E3%80%8B(%E7%AC%AC%E4%B8%89%E7%89%88)%20by%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%B3%BB%E7%BC%96%20.pdf),

@@ -5,6 +5,10 @@
 - 开课学院：物理学院
 - 评分难度：呵呵
 
+## 速成攻略
+- 强推[张云翼大学物理](https://www.bilibili.com/video/BV1VS411A75c/?spm_id_from=333.337.search-card.all.click&vd_source=11648ea8b9149e78b210f1a1582d46d7)的前六集,讲得非常好,通俗易懂,丝毫不拖泥带水。后面是另一个老师的,有点啰嗦
+
+
 ## 课程课本
 
 - 教材：[大学物理上册](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E4%B8%8A%20%5B%E8%8C%83%E6%B7%91%E5%8D%8E%EF%BC%8C%E9%A1%B9%E6%9E%97%E5%B7%9D%20%E4%B8%BB%E7%BC%96%5D%202014%E5%B9%B4%E7%89%88.pdf),

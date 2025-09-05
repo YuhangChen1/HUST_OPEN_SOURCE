@@ -8,9 +8,13 @@
 
 ## 推荐自学课程
 
-**MIT的线代会从理解层面认识线代，但是华科的教学方式是以做题为标准(叠加：我觉得)**
+**MIT的线代会从理解层面认识线代，但是华科的教学方式是以做题为标准(叠甲：我觉得)**
 
 - [MIT线性代数](https://www.bilibili.com/video/BV1rH4y1N7BW/?spm_id_from=333.337.search-card.all.click)
+
+## 补充课程
+
+- [3Blue1Brown线性代数](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.1387.search.video_card.click&vd_source=11648ea8b9149e78b210f1a1582d46d7)是制作精良的一系列动画,有助于理解线性代数的本质
 
 ## 课程书籍
 
