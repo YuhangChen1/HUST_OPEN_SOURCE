@@ -21,5 +21,5 @@
 
 - [demo1](https://github.com/Ilosyi/Hust-CS-Learning-Library/tree/main/IB%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C)
 
-- [头哥题目](https://github.com/Ilosyi/Hust-CS-Learning-Library/tree/main/IB%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%B4%E6%AD%8C%E7%BC%96%E7%A8%8B%E9%A2%98)
+- [头歌题目](https://github.com/Ilosyi/Hust-CS-Learning-Library/tree/main/IB%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%B4%E6%AD%8C%E7%BC%96%E7%A8%8B%E9%A2%98)
 

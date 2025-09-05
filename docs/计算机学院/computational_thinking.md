@@ -8,13 +8,13 @@
 - 类型:开卷
 ## 课程内容QA
 
-Q:选哪个老师？
-A:我觉得都可以，两个老师都签到，黄宏好像吃签到蛮狠的
+Q：选哪个老师？
+A：我觉得都可以，两个老师都签到，黄宏好像吃签到蛮狠的
 
 Q：哪个老师给分高？
 A：差不多，李玉华给分可能高一点，黄宏没见过几个上90的
 
-Q:课程压力如何
+Q：课程压力如何
 A：大水课，选就完了
 
 Q：怎么复习？
@@ -24,7 +24,7 @@ A：开卷考试抄就完了，记得打印PPT进场，可以提前看看ppt，�
 
 **开卷考试抄就完了 故不提供课本 建议购买二手**
 
-- [实验头哥源码](https://github.com/Nuyoahwjl/HUST-CS/tree/main/%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4/%E4%B8%8A%E6%9C%BA%E5%AE%9E%E9%AA%8C(python))
+- [实验头歌源码](https://github.com/Nuyoahwjl/HUST-CS/tree/main/%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4/%E4%B8%8A%E6%9C%BA%E5%AE%9E%E9%AA%8C(python))
 
 - [课件](https://github.com/Nuyoahwjl/HUST-CS/tree/main/%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4/%E8%AF%BE%E4%BB%B6)
 

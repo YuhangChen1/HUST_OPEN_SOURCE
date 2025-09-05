@@ -27,7 +27,7 @@
 - [2009 -2021](https://github.com/Nuyoahwjl/HUST-CS/tree/main/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98)
 
 
-## 头哥代码
+## 头歌代码
 
 **下方内容源自[Nuyoahwjl](https://github.com/Nuyoahwjl)**
 
