@@ -18,10 +18,10 @@
 ## 课程试卷
 
 ### 2023
-- [期末试卷](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%862/%E5%BE%80%E5%B9%B4%E9%A2%98/2023%E7%A7%8B%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB.pdf),[答案](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%862/%E5%BE%80%E5%B9%B4%E9%A2%98/2023%E7%A7%8B%E5%AD%A3%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf)
+- [期末试卷和答案](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%862/%E5%BE%80%E5%B9%B4%E9%A2%98/2023%E7%A7%8B%E5%AD%A3%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf)
 
 ### 2022
-- [期末试卷](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%862/%E5%BE%80%E5%B9%B4%E9%A2%98/2022%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88II%EF%BC%89-%E8%AF%95%E5%8D%B7%20(1).pdf), [答案](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%862/%E5%BE%80%E5%B9%B4%E9%A2%98/2022%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88II%EF%BC%89-%E8%AF%95%E5%8D%B7%20%28%E7%AD%94%E6%A1%88%29.pdf)
+- [期末试卷](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%862/%E5%BE%80%E5%B9%B4%E9%A2%98/2022%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88II%EF%BC%89-%E8%AF%95%E5%8D%B7%20(1).pdf)
 
 ### 2018-2019
 - [试卷集合](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%862/%E5%BE%80%E5%B9%B4%E9%A2%98/%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E4%BA%8C%EF%BC%892018-2019%E7%AD%8911%E4%B8%AA%E6%96%87%E4%BB%B6.zip)

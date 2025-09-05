@@ -21,5 +21,5 @@
 
 ## 课程试卷
 
-- [真题（压缩包）](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E7%89%A9(%E4%B8%8A)%E7%9C%9F%E9%A2%98.pdf)
+- [真题](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E7%89%A9%E7%9C%9F%E9%A2%98.pdf)
 - [一次小测](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E4%B8%80%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%8F%E6%B5%8B.pdf)

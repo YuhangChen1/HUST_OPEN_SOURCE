@@ -1,4 +1,4 @@
-# 综合英语1
+# 综合英语2
 
 ## 课程简介
 
@@ -22,11 +22,11 @@
 
 **感谢计算机学院[Ilosyi](https://github.com/Ilosyi)**
 
-- [视听说3翻译](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IA%20%E7%BB%BC%E5%90%88%E8%8B%B1%E8%AF%AD(%E4%B8%80)/%E8%A7%86%E5%90%AC%E8%AF%B4%E6%95%99%E7%A8%8B3%E5%90%AC%E5%8A%9B%E7%BF%BB%E8%AF%91.docx)
+- [Book 3 译文](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IB%20%E7%BB%BC%E5%90%88%E8%8B%B1%E8%AF%AD(%E4%BA%8C)/Book%203%20%20%E8%AF%91%E6%96%87.doc)
 
-- [词汇选择题](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IA%20%E7%BB%BC%E5%90%88%E8%8B%B1%E8%AF%AD(%E4%B8%80)/mooc%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87%E6%A3%80%E6%B5%8B%EF%BC%88%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89_20230530131140.pdf)
+- [口语资料](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IB%20%E7%BB%BC%E5%90%88%E8%8B%B1%E8%AF%AD(%E4%BA%8C)/%E5%8F%A3%E8%AF%AD%E8%B5%84%E6%96%991-8.docx)
 
-- [慕课手写笔记](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E6%80%9D%E6%94%BF%E8%AF%BE%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5/%E9%99%84%E4%BB%B65%EF%BC%9A%E8%8C%83%E6%96%87%EF%BC%882%EF%BC%89(1).doc)
+- [视听说教程4听力翻译](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IB%20%E7%BB%BC%E5%90%88%E8%8B%B1%E8%AF%AD(%E4%BA%8C)/%E8%A7%86%E5%90%AC%E8%AF%B4%E6%95%99%E7%A8%8B4%E5%90%AC%E5%8A%9B%E7%BF%BB%E8%AF%91.docx)
 
 
 **下方仓库库包含综合英语的作文题、演示PPT、听力题、口语考试内容和1份英语MOOC总结pdf 请给仓库一个star**
