@@ -4,11 +4,9 @@
 
 - 开课学院：计算机学院
 - 评分难度：抽象
-- 开设时间: 大二上
-
+- 开设时间：大二上
 
 ## 课程课件
-
 
 - [课件](https://github.com/YuhangChen1/HUSR-CS-Learning/tree/master/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BA%8C/%E8%AF%BE%E4%BB%B6t)
 
@@ -22,4 +20,5 @@
 
 
 ## 作业和答案
+
 - [作业和答案](https://github.com/YuhangChen1/HUSR-CS-Learning/tree/master/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BA%8C/%E4%BD%9C%E4%B8%9A)

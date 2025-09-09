@@ -22,7 +22,7 @@
 
 - [选择题库2和答案](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%A4%8D%E4%B9%A0/%E8%BF%91%E4%BB%A3%E5%8F%B2%E8%A6%81%E9%80%89%E6%8B%A9%E9%A2%98%E5%BA%932%E5%8F%B7%20(%E7%AD%94%E6%A1%88).pdf)
 
-- [选择题库1](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%A4%8D%E4%B9%A0/%E8%BF%91%E4%BB%A3%E5%8F%B2%E9%80%89%E6%8B%A9%E9%A2%98%E9%A2%98%E5%BA%931%E5%8F%B7.pdf),[答案](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%A4%8D%E4%B9%A0/%E8%BF%91%E4%BB%A3%E5%8F%B2%E9%80%89%E6%8B%A9%E9%A2%98%E9%A2%98%E5%BA%931%E5%8F%B7%EF%BC%88%E7%AD%94%E6%A1%88%EF%BC%89.pdf)
+- [选择题库1](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%A4%8D%E4%B9%A0/%E8%BF%91%E4%BB%A3%E5%8F%B2%E9%80%89%E6%8B%A9%E9%A2%98%E9%A2%98%E5%BA%931%E5%8F%B7.pdf)，[答案](https://github.com/YuhangChen1/HUSR-CS-Learning/blob/master/%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%A4%8D%E4%B9%A0/%E8%BF%91%E4%BB%A3%E5%8F%B2%E9%80%89%E6%8B%A9%E9%A2%98%E9%A2%98%E5%BA%931%E5%8F%B7%EF%BC%88%E7%AD%94%E6%A1%88%EF%BC%89.pdf)
 
 - [选择题题库3](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IB%20%E8%BF%91%E4%BB%A3%E5%8F%B2/%E8%BF%91%E4%BB%A3%E5%8F%B2%E9%80%89%E6%8B%A9%E9%A2%98%E9%A2%98%E5%BA%93.doc)
 
@@ -35,4 +35,3 @@
 - [章节简答题](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IB%20%E8%BF%91%E4%BB%A3%E5%8F%B2/%E5%8F%B2%E7%BA%B2%E7%AE%80%E7%AD%94%E9%A2%98.pdf)
 
 - [学生自制思考题](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IB%20%E8%BF%91%E4%BB%A3%E5%8F%B2/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E6%80%9D%E8%80%83%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%EF%BC%88%E8%87%AA%E7%94%A8%EF%BC%89%E5%BE%85%E6%9B%B4%E6%96%B0%EF%BC%8C%E5%BE%85%E5%AE%8C%E5%96%84%20(1)%20(1).docx)
-

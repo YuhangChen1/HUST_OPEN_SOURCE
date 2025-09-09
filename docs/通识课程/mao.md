@@ -17,11 +17,11 @@ A：背了半天，勇得8x分
 
 **感谢计算机学院[Nuyoahwjl](https://github.com/Nuyoahwjl)**
 
-- [2025试卷A](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIB%20%E6%AF%9B%E6%A6%82/%E8%AF%95%E5%8D%B7/2025A%E5%8D%B7%E9%A2%98%E7%9B%AE%E5%9B%9E%E5%BF%86.docx),[参考答案](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIB%20%E6%AF%9B%E6%A6%82/%E8%AF%95%E5%8D%B7/%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88A%E5%8D%B7.doc)
+- [2025试卷A](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIB%20%E6%AF%9B%E6%A6%82/%E8%AF%95%E5%8D%B7/2025A%E5%8D%B7%E9%A2%98%E7%9B%AE%E5%9B%9E%E5%BF%86.docx)，[参考答案](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIB%20%E6%AF%9B%E6%A6%82/%E8%AF%95%E5%8D%B7/%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88A%E5%8D%B7.doc)
 
 - [2021试卷A](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIB%20%E6%AF%9B%E6%A6%82/%E8%AF%95%E5%8D%B7/2021%E7%BA%A7%E3%80%8A%E6%A6%82%E8%AE%BA%E3%80%8B%E8%80%83%E8%AF%95A%E7%AC%AC%E4%BA%8C%E7%89%88.doc)
 
-- [真题但备用卷](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIB%20%E6%AF%9B%E6%A6%82/%E8%AF%95%E5%8D%B7/%E6%AF%9B%E6%A6%82%E5%A4%87%E7%94%A8%E5%8D%B7.pdf),[答案](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIB%20%E6%AF%9B%E6%A6%82/%E8%AF%95%E5%8D%B7/%E6%AF%9B%E6%A6%82%E5%A4%87%E7%94%A8%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf)
+- [真题但备用卷](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIB%20%E6%AF%9B%E6%A6%82/%E8%AF%95%E5%8D%B7/%E6%AF%9B%E6%A6%82%E5%A4%87%E7%94%A8%E5%8D%B7.pdf)，[答案](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IIB%20%E6%AF%9B%E6%A6%82/%E8%AF%95%E5%8D%B7/%E6%AF%9B%E6%A6%82%E5%A4%87%E7%94%A8%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf)
 
 ## 复习资料
 
