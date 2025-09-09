@@ -17,6 +17,6 @@
 
 **语文作业各异**
 
--[Ilosyi的语文作业](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IA%20%E4%B8%AD%E5%9B%BD%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E4%BD%9C%E4%B8%9A.doc)
+- [Ilosyi的语文作业](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IA%20%E4%B8%AD%E5%9B%BD%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E4%BD%9C%E4%B8%9A.doc)
 
 - [语文复习](https://github.com/Ilosyi/Hust-CS-Learning-Library/blob/main/IA%20%E4%B8%AD%E5%9B%BD%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%A4%8D%E4%B9%A0.docx)

@@ -22,7 +22,7 @@
 
 # 特别鸣谢
 
-在这里，我怀着崇敬之心真诚地感谢每一个支持开源计划，同时提出维护网站并且提供资料链接的各位，（默默嘀嘀咕咕先感谢感谢我靠北这么快网暴就到了）[Francis_Chen](https://github.com/YuhangChen1),[Sukuna](https://github.com/SukunaShinmyoumaru-hust)，[Ilosyi](https://github.com/Ilosyi),[Alumkal](https://github.com/alumkal),[Amoxcillinia](https://github.com/Amoxcillinia),[Nuyoahwjl](https://github.com/Nuyoahwjl)
+在这里，我怀着崇敬之心真诚地感谢每一个支持开源计划，同时提出维护网站并且提供资料链接的各位，（默默嘀嘀咕咕先感谢感谢我靠北这么快网暴就到了）[Francis_Chen](https://github.com/YuhangChen1)，[Sukuna](https://github.com/SukunaShinmyoumaru-hust)，[Ilosyi](https://github.com/Ilosyi)，[Alumkal](https://github.com/alumkal)，[Amoxcillinia](https://github.com/Amoxcillinia)，[Nuyoahwjl](https://github.com/Nuyoahwjl)
 后续有任何提交内容的，请联系我，并加入鸣谢
 
 **课程推荐**栏目由计算机学院[Amoxcillinia](https://github.com/Amoxcillinia)特约推荐

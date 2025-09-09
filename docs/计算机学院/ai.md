@@ -4,7 +4,7 @@
 
 - 开课学院：计算机学院
 - 评分难度：超级无敌好
-- 开设时间: 大二上
+- 开设时间：大二上
 - 开课老师：莫益军
 
 **选就完事了**
@@ -24,4 +24,3 @@
 - [使用模拟退火算法实现了对于TSP问题的求解](https://github.com/25plusD/IntroductionOfAI)
 
 - [探究主流 NLP 模型：结构、参数与显存占用](https://github.com/tomtimo0/nlp_model_analysis)
-
